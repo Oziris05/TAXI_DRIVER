@@ -4,7 +4,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 from PIL import Image
-import streamlit as st
 st.title("HELLO ! Lets compare one day of work in NYC for two cab company  ")
 
 # Load image from file using Pillow
